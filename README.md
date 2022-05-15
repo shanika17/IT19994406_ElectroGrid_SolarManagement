@@ -1,0 +1,1 @@
+# IT19994406_ElectroGrid_SolarManagement
