@@ -162,7 +162,7 @@ public String readSolarDetails()
 		return output;
 	}
 
-	//method to update solar panel details in DB
+	//method to update solar panel details in Database
 	public String updateSolarDetails(String solarID, String customerName, String customerAddress, String capacity, String noOfSolarPanels, String type)
 	{
 		String output = "";
